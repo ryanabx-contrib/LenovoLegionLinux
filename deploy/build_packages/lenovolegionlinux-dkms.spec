@@ -9,7 +9,7 @@ Group:        System/Kernel
 Summary:      LenovoLegionLinux Kernel Module Package
 Version:      0.0.19
 Release:      %autorelease
-Source0:      https://github.com/johnfanv2/LenovoLegionLinux/archive/refs/tags/v%{version}.tar.gz
+Source0:      https://github.com/ryanabx-contrib/LenovoLegionLinux/archive/refs/tags/v%{version}.tar.gz
 
 Requires:     dkms
 
